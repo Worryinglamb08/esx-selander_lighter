@@ -1,0 +1,1 @@
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('lighter', 'Lighter', '3', '0', '1');
